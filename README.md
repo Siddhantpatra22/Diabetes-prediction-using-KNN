@@ -22,6 +22,6 @@ The data set consist of females over the age of 21. There are a total of 9 featu
 4. Triceps skin fold thickness (mm)
 5. 2-Hour serum insulin (mu U/ml)
 6. Body mass index (weight in kg/(height in m)^2)
-7. Diabetes pedigree function(A function that scores the likelihood of diabetes based on family history)
-8. Age (years)
+7. Diabetes pedigree function (A function that scores the likelihood of diabetes based on family history)
+8. Age(years)
 9. Outcome (0 or 1)
