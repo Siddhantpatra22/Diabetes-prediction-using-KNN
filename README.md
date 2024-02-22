@@ -1,4 +1,4 @@
-# Diabetes-prediction-using-KN
+# Diabetes-prediction-using-KNN
 # Diabetes Prediction
 
 
