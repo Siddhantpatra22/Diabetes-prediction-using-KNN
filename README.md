@@ -4,7 +4,7 @@
 
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
 
-### Introduction
+## Introduction
 
 So what is diabetes and what leads to someone getting it? The following is from the Centers for Disease Control and Prevention (CDC).  
 
@@ -17,7 +17,7 @@ The data set we will be using is the PIMA Indian Diabetes data set. The PIMA Ind
 The data set consist of females over the age of 21. There are a total of 9 features including outcome, which is what we will be trying to predict
 
 1. Number of times pregnant
-2. Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+2. Plasma glucose concentration a 2 hours in an oral glucose tolerance testtt
 3. Diastolic blood pressure (mm Hg)
 4. Triceps skin fold thickness (mm)
 5. 2-Hour serum insulin (mu U/ml)
