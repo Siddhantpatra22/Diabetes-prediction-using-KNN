@@ -14,7 +14,7 @@ Type 2 diabetes symptoms often develop over several years and can go on for a lo
 
 The data set we will be using is the PIMA Indian Diabetes data set. The PIMA Indians are a tribe in Arizona and more about their history can be found here https://en.wikipedia.org/wiki/Pima_people
 
-The data set consist of females over the age of 21. There are a total of 9 features including outcome, which is what we will be trying to predict
+The data set consist of females over the age of 21.. There are a total of 9 features including outcome  which is what we will be trying to predict
 
 1. Number of times pregnant
 2. Plasma glucose concentration a 2 hours in an oral glucose tolerance testtt
